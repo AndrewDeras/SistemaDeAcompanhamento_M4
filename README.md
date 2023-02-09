@@ -10,4 +10,4 @@ Os principais campos foram nomes, codigos de turma, matrículas e foram utilazad
 As tabelas de cursos e professores tem relação de um para muitos com a tabela de turmas, já a tabela matrículas tem relacionamento de um para um com a tabelas turmas assim como a tabelas alunos com matrículas.
 
 ### Diagrama do banco.
-<div><img src="./diagrama_do_banco.png"></div>
+<div><img src="./diagrama_do_banco.PNG"></div>
